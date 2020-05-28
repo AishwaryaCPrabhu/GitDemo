@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="103" started-at="2020-03-03T06:14:57 CST" finished-at="2020-03-03T06:14:57 CST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="103" started-at="2020-03-03T06:14:57 CST" finished-at="2020-03-03T06:14:57 CST">
+      <class name="qaclickacademy2.Mavenjava2.SeleniumTest">
+        <test-method status="PASS" signature="BrowserUiAutomation()[pri:0, instance:qaclickacademy2.Mavenjava2.SeleniumTest@63753b6d]" name="BrowserUiAutomation" duration-ms="1" started-at="2020-03-03T06:14:57 CST" finished-at="2020-03-03T06:14:57 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserUiAutomation -->
+        <test-method status="PASS" signature="ElementsUi()[pri:0, instance:qaclickacademy2.Mavenjava2.SeleniumTest@63753b6d]" name="ElementsUi" duration-ms="2" started-at="2020-03-03T06:14:57 CST" finished-at="2020-03-03T06:14:57 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ElementsUi -->
+      </class> <!-- qaclickacademy2.Mavenjava2.SeleniumTest -->
+      <class name="qaclickacademy2.Mavenjava2.AppiumTest">
+        <test-method status="PASS" signature="NativeAppAndroid()[pri:0, instance:qaclickacademy2.Mavenjava2.AppiumTest@5f9d02cb]" name="NativeAppAndroid" duration-ms="11" started-at="2020-03-03T06:14:57 CST" finished-at="2020-03-03T06:14:57 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NativeAppAndroid -->
+        <test-method status="PASS" signature="iOSApp()[pri:0, instance:qaclickacademy2.Mavenjava2.AppiumTest@5f9d02cb]" name="iOSApp" duration-ms="1" started-at="2020-03-03T06:14:57 CST" finished-at="2020-03-03T06:14:57 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iOSApp -->
+      </class> <!-- qaclickacademy2.Mavenjava2.AppiumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
